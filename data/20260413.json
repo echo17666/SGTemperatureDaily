@@ -6,5 +6,9 @@
   {
     "time": "12:13",
     "temperature": 32
+  },
+  {
+    "time": "13:21",
+    "temperature": 33
   }
 ]
