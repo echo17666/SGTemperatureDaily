@@ -4,7 +4,7 @@ Real-time temperature monitoring for Singapore Changi Airport (WSSS).
 
 Data collected every 5 minutes from 10:00 to 18:00 (UTC+8) via GitHub Actions.
 
-## Today's Temperature (2026-04-27)
+## Today's Temperature (2026-04-28)
 
 ![Temperature Chart](chart.svg)
 
